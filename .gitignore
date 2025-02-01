@@ -1,2 +1,6 @@
 .DS_Store
 *.html
+.obsidian/
+./obsidian/workspace.json
+.trash/
+
